@@ -25,4 +25,4 @@ You can install the necessary packages using pip:
 Copy code pip install pandas scikit-learn
 
 Summary
-This README file provides a clear overview of the code, the steps involved, and their significance. It also includes setup instructions for anyone interested in running the code themselves. You can save this content in a file named README.md in your GitHub repository to provide context and guidance to users.
+This README file provides a clear overview of the code, the steps involved, and their significance. It also includes setup instructions for anyone interested in running the code themselves.
